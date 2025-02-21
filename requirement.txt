@@ -1,3 +1,7 @@
 use virtual enviroment for python in vs code
+move to your project directory in terminal 
+python3 -m venv venv
+source venv/bin/activate
+
 
 install opencv, tensorflow, numpy, pandas, mediapipe and other necessary libraries
