@@ -1,0 +1,3 @@
+use virtual enviroment for python in vs code
+
+install opencv, tensorflow, numpy, pandas, mediapipe and other necessary libraries
